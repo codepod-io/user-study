@@ -143,6 +143,24 @@ The def-use edges are only visualized inside the scope to avoid cluttering the v
 
 <img src="assets/defuse.png" alt="" width="300"/>
 
+### Scope semantics
+
+Not only can you organize pods with scopes, they also have semantic meanings to
+help you isolate namespaces in the runtime.
+
+First of all, scopes are separated. The function `foo` in one scope is different
+from the `foo` in another. A function is only visible inside the scope
+(including its children).
+
+<img src="assets/scope-separate.png" alt="" width="300"/>
+
+Second, you can export a function out into its parent. This is the use case
+where inner scope implements some lower-level functions, and expose a public API
+to higher level. You can mark a pod as public by clicking on the "toggle public"
+button. The pod will be visually marked "public".
+
+<img src="assets/public.png" alt="" width="300"/>
+
 ### Rich text pod (markdown)
 
 You can create a rich text pod by right clicking on the canvas and selecting

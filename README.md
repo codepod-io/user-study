@@ -18,12 +18,8 @@ The major new features over Juptyer notebooks are:
    can move the code blocks freely in 2D space.
 2. Oragnize your code in arbitrarily nested scopes. You can group logically
    related code blocks into a scope. Scopes can be nested.
-3. Scope Semantic
-   1. Each scope is in a separate namespace. All variables, functions and
-      classes are only visible inside the scope (including its children
-      scopes).
-   2. A pod can be marked `public`, which extends its visibility into its
-      parent scope.
+3. Scope Semantic. Not only can you organize pods with scopes, they also have
+   semantic meanings to help you isolate namespaces in the runtime.
 4. Def-use visualization. If a code pod uses symbols defined in another code
    pod, there will be an edge from the definition pod to the usage pod. The
    symbol def-use includes variable, functions and classes.
