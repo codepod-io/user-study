@@ -5,12 +5,6 @@ Version: v0.1 (2024-11-11)
 This manual will guide you through the features of CodePod IDE and the steps to
 follow to complete the user study.
 
-Outline
-
-1. introduction to CodePod IDE
-2. Three benchmark projects to use during the user study
-3. Questionare
-
 ## Introduction to CodePod IDE
 
 CodePod IDE is a Scalable Jupyter Notebook.
@@ -44,7 +38,12 @@ Please refer to the [user manual](./Manual.md) for how to use the app.
 
 ## User study
 
-The goal is to understand the pros and cons of the CodePod IDE compared to Jupyter. We prepared three Jupyter notebooks. Your task is to test the three projects on both Jupyter notebook and on CodePod to understand both tools, and then complete the questionare.
+The goal is to understand the pros and cons of the CodePod IDE compared to
+Jupyter.
+
+We prepared three Jupyter notebooks. **Your task** is to test the three projects
+on both Jupyter notebook and on CodePod to understand both tools, and then
+complete the questionare.
 
 - To use CodePod, go to https://test.codepod.io.
 - To use Jupyter, you can install Jupyter notebook or use VSCode's Jupyter extension.
