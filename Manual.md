@@ -35,7 +35,7 @@ In the pod toolbar, there's a delete pod button to delete a pod.
 
 <img src="assets/delete.png" alt="" width="300"/>
 
-### Moving around the Canvas
+### Moving around the Canvas; Zoom In & Out
 
 If you're using a touchpad
 
@@ -177,11 +177,11 @@ Right click on the Canvas and select "Import", then choose your jupyter notebook
 
 ### (Best?) Practices to order the pods
 
-- put logical related code pods into a scope
-- use nested scopes to build a hierarchy:
+- Put logical related code pods into a scope
+- Use nested scopes to build a hierarchy:
   - inner scope represents lower level functions
   - outer scope represents higher level functions.
   - inner scope expose APIs into outer scope
-- use def-use edges to layout the pods. E.g., order the pods so that edges flow from top-left to bottom-right.
+- Use def-use edges to layout the pods. E.g., order the pods so that edges flow from top-left to bottom-right.
 
 <img src="assets/best-practice.png" alt="" width="800"/>

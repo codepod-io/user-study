@@ -24,6 +24,8 @@ The major new features over Juptyer notebooks are:
    pod, there will be an edge from the definition pod to the usage pod. The
    symbol def-use includes variable, functions and classes.
 
+At the end of the study, you will be asked to evaluate how useful these features are.
+
 ## The CodePod App in the cloud
 
 CodePod is a web app. The test server is at https://test.codepod.io. You can
