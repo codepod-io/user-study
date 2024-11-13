@@ -21,11 +21,13 @@ When you hover on the pod, the toolbar will show on the top right corner.
 
 ### Moving pods
 
-There's a grab icon on the toolbar. Drag on it will move the pod.
+Option 1: There's a grab icon on the toolbar. Drag on it will move the pod.
 
-You can also drag to select one or more pod and move them at once.
+Option 2: You can also drag to select one or more pod and move them at once.
 
 <img src="assets/select.png" alt="" width="300"/>
+
+Special note for scope: if you want to "drag-to-select" a scope, you need to drag from outside into it. If you drag inside a scope, only inner nodes will be selected.
 
 ### Deleting a pod
 
