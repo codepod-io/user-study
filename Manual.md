@@ -29,6 +29,13 @@ Option 2: You can also drag to select one or more pod and move them at once.
 
 Special note for scope: if you want to "drag-to-select" a scope, you need to drag from outside into it. If you drag inside a scope, only inner nodes will be selected.
 
+### Resizing a pod
+
+You can resize the width of a pod by dragging at its right edge. The height is
+automatically adjusted based on content.
+
+A scope can be resized in all directions on all edges.
+
 ### Deleting a pod
 
 In the pod toolbar, there's a delete pod button to delete a pod.
@@ -69,6 +76,9 @@ You can also use `shift-enter` keyboard shortcut to trigger the code execution.
 Unlike Jupyter, you can safely close the page while the pod is running. The results will be continuely populated in the cloud.
 
 <img src="assets/run.png" alt="" width="300"/>
+
+If the result output is too long, it will be folded. You can expand it using the
+button on the top-right of the result area.
 
 ### User volume
 
