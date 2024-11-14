@@ -1,7 +1,5 @@
 # CodePod User Study
 
-Version: v0.1 (2024-11-11)
-
 This manual will guide you through the features of CodePod IDE and the steps to
 follow to complete the user study.
 
