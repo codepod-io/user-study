@@ -48,9 +48,9 @@ You are also welcome to try other projects on CodePod if you wish.
 
 The three jupyter notebooks:
 
-- Fashion MNIST classification with pytorch ([fashion-mnist.ipynb](fashion-mnist.ipynb))
-- Kaggle competition: sentiment analysis on Amazon food review data ([amazon-review.ipynb](amazon-review.ipynb))
-- Python web scraping using beautifulsoup ([web-scraping.ipynb](web-scraping.ipynb))
+- Fashion MNIST classification with pytorch ([1-fashion-mnist.ipynb](1-fashion-mnist.ipynb))
+- Python web scraping using beautifulsoup ([2-web-scraping.ipynb](2-web-scraping.ipynb))
+- Kaggle competition: sentiment analysis on Amazon food review data ([3-amazon-review.ipynb](3-amazon-review.ipynb))
 
 We'll also provide reference projects in CodePod. You can either view it before
 or after your own try. It is recommended to try it before viewing the reference
