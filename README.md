@@ -30,7 +30,7 @@ CodePod is a web app. The test server is at https://test.codepod.io. You can
 login with your Google account and start using it right away. All code are saved
 in the cloud and executed in the cloud runtimes.
 
-Please refer to the [user manual](./Manual.md) for how to use the app.
+Please refer to the [user manual](https://codepod.io/docs/manual/) for how to use the app.
 
 ## User study
 
