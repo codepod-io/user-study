@@ -16,6 +16,12 @@ follow to complete the user study.
     - [Other](#other)
 
 
+## Quick links
+- CodePod website: https://codepod.io
+- Online App: https://test.codepod.io
+- User Manual: https://codepod.io/docs/manual
+- User Study repo (this repo): https://github.com/codepod-io/user-study
+
 ## Introduction to CodePod IDE
 
 CodePod IDE is a Scalable Jupyter Notebook.
