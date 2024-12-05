@@ -93,6 +93,11 @@ Please estimate how many code blocks
 - The number of pods (cells) that you are comfortable to develop in Jupyter: e.g., 100
 - The number of pods that you are comfortable to develop in CodePod: e.g., 100
 
+| App                       | Jupyter | CodePod |
+| ------------------------- | ------- | ------- |
+| Scales to #number of pods |         |         |
+
+
 What is the factors backing your estimation of scalability?
 
 - For Juptyer: ...
@@ -109,15 +114,18 @@ CodePod is significantly worse than Jupyter, and 10 means CodePod is
 significantly better than Jupyter.
 
 - Score 1: Overall usefulness of CodePod.
-  - Your score (0-10):
 - Score 2: The usefulness of the 2D canvas interface and Canvas navigation.
   - This feature includes the ability to freely place code blocks (e.g., side-by-side instead of linear), zoom in and out to view details and bird eye overview.
-  - Your score (0-10):
 - Score 3: The usefulness of Nested Scope and Semantic Scoping Rules.
   - This feature includes the ability to group related code blocks in scopes for clear organization, hierarchical nested scope, and the runtime semantic namespace separation and API exports during code execution.
-  - Your score (0-10):
 - Score 4: The usefulness of def-use visualization.
-  - Your score (0-10):
+
+| App                             | Jupyter | CodePod (0-10) |
+| ------------------------------- | ------- | -------------- |
+| Overall usefulness              | 5       |                |
+| 2D Canvas                       | 5       |                |
+| Nested Scopes & Scope Semantics | 5       |                |
+| Def-use visualization edges     | 5       |                |
 
 ### Q3: Time Spent to Organize the Notebooks on CodePod
 
