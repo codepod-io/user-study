@@ -103,7 +103,8 @@ What is the factors backing your estimation of scalability?
 - For Juptyer: ...
 - For CodePod: ...
 
-Your comments related to scalability: ...
+Your comments related to scalability:
+- ...
 
 ### Q2: Ablation Study
 
@@ -127,6 +128,9 @@ significantly better than Jupyter.
 | Nested Scopes & Scope Semantics | 5       |                |
 | Def-use visualization edges     | 5       |                |
 
+Any comments for this question:
+- ...
+
 ### Q3: Time Spent to Organize the Notebooks on CodePod
 
 Please estimate the time spend to transform and organize the jupyter notebook onto CodePod.
@@ -146,6 +150,9 @@ Please enter your estimation in the table below (assuming that you are familiar 
 | Lines of Code (LoCs)  | 130           | 133                | 110          |
 | Time estimation (min) |               |                    |              |
 
+Any comments to this question:
+- ...
+
 ### Q4: time and distance to navigate and udpate code during development
 
 On Jupyter, a large amount of development time is often spent on navigating code
@@ -164,6 +171,9 @@ targeting code block to edit.
 | ------------------------------------------- | ------- | ------- |
 | Distance of co-edit blocks (number)         |         |         |
 | Time to navigate to block-to-edit (seconds) |         |         |
+
+Any comments to this question:
+- ...
 
 ### Other
 
