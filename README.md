@@ -12,6 +12,13 @@ follow to complete the user study.
   - [Q3: Time Spent to Organize the Notebooks on CodePod](#q3-time-spent-to-organize-the-notebooks-on-codepod)
   - [Q4: time and distance to navigate and udpate code during development](#q4-time-and-distance-to-navigate-and-udpate-code-during-development)
 
+tl;dr
+
+We prepared three jupyter notebooks as benchmarks. Your task is to run these
+notebooks in CodePod IDE to experience the tool, then complete a questionaire of
+4 questions. You can also use CodePod IDE on any other projects as you wish as
+an evaluation of CodePod.
+
 ## Quick links
 
 - CodePod website: https://codepod.io
@@ -75,7 +82,7 @@ complete the questionare.
 
 You are also welcome to try other projects on CodePod if you wish.
 
-The three jupyter notebooks:
+The **three jupyter notebooks**:
 
 - Fashion MNIST classification with pytorch ([1-fashion-mnist.ipynb](1-fashion-mnist.ipynb))
 - Python web scraping using beautifulsoup ([2-web-scraping.ipynb](2-web-scraping.ipynb))
@@ -84,6 +91,11 @@ The three jupyter notebooks:
 We'll also provide reference projects in CodePod. You can either view it before
 or after your own try. It is recommended to try it before viewing the reference
 design.
+
+There are two ways to run these jupyter projects in CodePod: writing from scratch or importing the notebooks.
+
+- From scratch: you can copy the cells one-by-one and run it in CodePod.
+- Import a Jupyter notebook: you can import the jupyter notebook into CodePod, and organize and run the cells in CodePod.
 
 ## Step 2: Complete the Questionaires
 
