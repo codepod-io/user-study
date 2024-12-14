@@ -23,7 +23,7 @@ follow to complete the user study.
 
 ## Introduction to CodePod IDE
 
-CodePod IDE is a Scalable Jupyter Notebook.
+CodePod IDE is a Scalable Jupyter Notebook. You can learn it with the following 5-minute introductory video:
 
 <!-- We'll use the term code "pods" to refer to the code pieces/blocks. It is
 equivalent to the code "cells" in Jupyter. -->
