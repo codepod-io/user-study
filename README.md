@@ -3,7 +3,6 @@
 This manual will guide you through the features of CodePod IDE and the steps to
 follow to complete the user study.
 
-
 - [CodePod User Study](#codepod-user-study)
   - [Introduction to CodePod IDE](#introduction-to-codepod-ide)
   - [The CodePod App in the cloud](#the-codepod-app-in-the-cloud)
@@ -15,8 +14,8 @@ follow to complete the user study.
     - [Q4: time and distance to navigate and udpate code during development](#q4-time-and-distance-to-navigate-and-udpate-code-during-development)
     - [Other](#other)
 
-
 ## Quick links
+
 - CodePod website: https://codepod.io
 - Online App: https://test.codepod.io
 - User Manual: https://codepod.io/docs/manual
@@ -92,6 +91,13 @@ Please complete the three jupyter notebooks in CodePod to get familiar with
 CodePod. Then, when you are ready, please evaluate CodePod with the following
 questionaires.
 
+tl;dr
+
+There are 4 questions, each with a table. Your task is to complete the 4 tables.
+For each question, it's best if you could also provide some comments related to
+it, such as how you come up with the numbers, how do you like or dislike the
+features, any suggestions, etc.
+
 ### Q1: Scalability
 
 Please estimate how many code blocks
@@ -103,13 +109,13 @@ Please estimate how many code blocks
 | ------------------------- | ------- | ------- |
 | Scales to #number of pods |         |         |
 
-
-What is the factors backing your estimation of scalability?
+<!-- What is the factors backing your estimation of scalability?
 
 - For Juptyer: ...
-- For CodePod: ...
+- For CodePod: ... -->
 
 Your comments related to scalability:
+
 - ...
 
 ### Q2: Ablation Study
@@ -135,6 +141,7 @@ significantly better than Jupyter.
 | Def-use visualization edges     | 5       |                |
 
 Any comments for this question:
+
 - ...
 
 ### Q3: Time Spent to Organize the Notebooks on CodePod
@@ -157,6 +164,7 @@ Please enter your estimation in the table below (assuming that you are familiar 
 | Time estimation (min) |               |                    |              |
 
 Any comments to this question:
+
 - ...
 
 ### Q4: time and distance to navigate and udpate code during development
@@ -179,26 +187,15 @@ targeting code block to edit.
 | Time to navigate to block-to-edit (seconds) |         |         |
 
 Any comments to this question:
+
 - ...
 
 ### Other
 
-What you like about CodePod over Jupyter?
+Do you have any other comments (anything)?
 
 - ...
 
-What you like about Jupyter over CodePod?
-
-- ...
-
-What you dislike about CodePod?
-
-- ...
-
-Any other comments?
-
-- ...
-
-Any suggestions to add into this questionaire?
+Any suggestions to improve this questionaire?
 
 - ...
