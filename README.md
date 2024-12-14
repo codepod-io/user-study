@@ -51,6 +51,8 @@ The major new features over Juptyer notebooks are:
      edge from the definition pod to the usage pod. The symbol def-use includes
      variable, functions and classes.
 
+![jupyter-to-codepod](./assets/jupyter-to-codepod.png)
+
 At the end of the study, you will be asked to evaluate how useful these features are.
 
 ## The CodePod App in the cloud
