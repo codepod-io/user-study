@@ -3,16 +3,14 @@
 This manual will guide you through the features of CodePod IDE and the steps to
 follow to complete the user study.
 
-- [CodePod User Study](#codepod-user-study)
-  - [Introduction to CodePod IDE](#introduction-to-codepod-ide)
-  - [The CodePod App in the cloud](#the-codepod-app-in-the-cloud)
-  - [Step 1: Do the User Study](#step-1-do-the-user-study)
-  - [Step 2: Complete the Questionaires](#step-2-complete-the-questionaires)
-    - [Q1: Scalability](#q1-scalability)
-    - [Q2: Ablation Study](#q2-ablation-study)
-    - [Q3: Time Spent to Organize the Notebooks on CodePod](#q3-time-spent-to-organize-the-notebooks-on-codepod)
-    - [Q4: time and distance to navigate and udpate code during development](#q4-time-and-distance-to-navigate-and-udpate-code-during-development)
-    - [Other](#other)
+- [Introduction to CodePod IDE](#introduction-to-codepod-ide)
+- [The CodePod App in the cloud](#the-codepod-app-in-the-cloud)
+- [Step 1: Do the User Study](#step-1-do-the-user-study)
+- [Step 2: Complete the Questionaires](#step-2-complete-the-questionaires)
+  - [Q1: Scalability](#q1-scalability)
+  - [Q2: Ablation Study](#q2-ablation-study)
+  - [Q3: Time Spent to Organize the Notebooks on CodePod](#q3-time-spent-to-organize-the-notebooks-on-codepod)
+  - [Q4: time and distance to navigate and udpate code during development](#q4-time-and-distance-to-navigate-and-udpate-code-during-development)
 
 ## Quick links
 
