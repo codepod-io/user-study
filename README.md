@@ -25,10 +25,15 @@ follow to complete the user study.
 
 CodePod IDE is a Scalable Jupyter Notebook.
 
-We'll use the term code "pods" to refer to the code pieces/blocks. It is
-equivalent to the code "cells" in Jupyter.
+<!-- We'll use the term code "pods" to refer to the code pieces/blocks. It is
+equivalent to the code "cells" in Jupyter. -->
 
-![CodePod IDE](./assets/best-practice.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M0t2zxSrF6Q?si=rpie781xwVSFXyFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- We'll use the term code "pods" to refer to the code pieces/blocks. It is
+equivalent to the code "cells" in Jupyter. -->
+
+<!-- ![CodePod IDE](./assets/best-practice.png) -->
 
 The major new features over Juptyer notebooks are:
 
