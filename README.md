@@ -25,9 +25,9 @@ Introduction to CodePod video (5 minutes): https://youtu.be/M0t2zxSrF6Q
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M0t2zxSrF6Q/0.jpg)](https://www.youtube.com/watch?v=M0t2zxSrF6Q)
 
-User Study Walk through video (20 minutes): https://youtu.be/ycDeBNLb8_g
+User Study Walk through video (20 minutes): https://youtu.be/06yr8FTTxtI
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ycDeBNLb8_g/0.jpg)](https://www.youtube.com/watch?v=ycDeBNLb8_g)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/06yr8FTTxtI/0.jpg)](https://www.youtube.com/watch?v=06yr8FTTxtI)
 
 ## Quick links
 
