@@ -19,6 +19,16 @@ notebooks in CodePod IDE to experience the tool, then complete a questionaire of
 4 questions. You can also use CodePod IDE on any other projects as you wish as
 an evaluation of CodePod.
 
+## Videos
+
+Introduction to CodePod video (5 minutes): https://youtu.be/M0t2zxSrF6Q
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M0t2zxSrF6Q/0.jpg)](https://www.youtube.com/watch?v=M0t2zxSrF6Q)
+
+User Study Walk through video (20 minutes): https://youtu.be/ycDeBNLb8_g
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ycDeBNLb8_g/0.jpg)](https://www.youtube.com/watch?v=ycDeBNLb8_g)
+
 ## Quick links
 
 - CodePod website: https://codepod.io
@@ -28,15 +38,10 @@ an evaluation of CodePod.
 
 ## Introduction to CodePod IDE
 
-CodePod IDE is a Scalable Jupyter Notebook. You can learn it with the following 5-minute introductory video:
+CodePod IDE is a Scalable Jupyter Notebook.
 
-<!-- We'll use the term code "pods" to refer to the code pieces/blocks. It is
-equivalent to the code "cells" in Jupyter. -->
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M0t2zxSrF6Q/0.jpg)](https://www.youtube.com/watch?v=M0t2zxSrF6Q)
-
-<!-- We'll use the term code "pods" to refer to the code pieces/blocks. It is
-equivalent to the code "cells" in Jupyter. -->
+We'll use the term code "pods" to refer to the code pieces/blocks. It is
+equivalent to the code "cells" in Jupyter.
 
 <!-- ![CodePod IDE](./assets/best-practice.png) -->
 
