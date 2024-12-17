@@ -221,3 +221,14 @@ Do you have any other comments (anything)?
 Any suggestions to improve this questionaire?
 
 - ...
+
+### (Optional) Developer Information
+
+Please provide some basic information about you regarding programming. This is optional.
+
+| Item                                     | Value                                                      |
+| ---------------------------------------- | ---------------------------------------------------------- |
+| Year of Programming Experience           | (count school years)                                       |
+| Work Role                                | (e.g., research scientist, ML engineer, software engineer) |
+| Average Frequency using Jupyter notebook | (Number of times per week)                                 |
+| Major Programming Languages              | (list the major languages you use, e.g., Python, Java)     |
